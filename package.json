@@ -34,7 +34,6 @@
   },
   "dependencies": {
     "jquery": "^3.7.0",
-    "lighthouse": "^10.2.0",
     "lodash": "^4.17.21"
   },
   "main": "jest.config.js"
