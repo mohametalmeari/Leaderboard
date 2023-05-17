@@ -8,6 +8,26 @@
 <script defer src="runtime.bundle.js"></script><script defer src="main.bundle.js"></script></head>
 <body>
     <h1>Leaderboard</h1>
+    <div class="container">
+        <div class="recent">
+            <div class="recent-header">
+                <h2>Recent scores</h2>
+                <button id="refresh">Refresh</button>
+            </div>
+            <ul class="recent-list">
+            </ul>
+        </div>
+        <div class="add">
+            <h2>Add your score</h2>
+            <form id="score-form">
+                <input type="text" id="name">
+                <input type="number" id="score">
+                <button type="submit" id="submit">Submit</button>
+            </form>
+            <p id="msg"></p>
+
+        </div>
+    </div>
     
 </body>
 </html>
