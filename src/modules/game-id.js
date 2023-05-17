@@ -1,4 +1,4 @@
-const getGameID = () => {
+const getGameID = () => new Promise((resolve) => {
   if (!localStorage.getItem('myGameID')) {
     fetch('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games', {
       method: 'POST',
@@ -13,9 +13,11 @@ const getGameID = () => {
       .then((json) => {
         const myGameID = JSON.stringify(json).match(/Game with ID: (\w+)/)[1];
         localStorage.setItem('myGameID', myGameID);
+        resolve(myGameID);
       });
+  } else {
+    resolve(localStorage.getItem('myGameID'));
   }
-  return localStorage.getItem('myGameID');
-};
+});
 
 export default getGameID;
