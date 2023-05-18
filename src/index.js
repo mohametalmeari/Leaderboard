@@ -1,6 +1,7 @@
 import './style.css';
 import { AddNewScore, RefreshList } from './modules/util.js';
 import getGameID from './modules/game-id.js';
+import './modules/btn.js'
 
 const asyncCall = async () => {
   const msg = document.getElementById('msg');

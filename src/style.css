@@ -1,14 +1,19 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0.5rem;
+  font-family: 'Aldrich', 'Courier New', Courier, monospace;
+  color: #fff;
+  outline: none;
 }
 
 body {
   padding: 1rem 4rem;
+  background-color: #272343;
 }
 
 .container {
-  height: 80vh;
   display: flex;
   justify-content: stretch;
   gap: 4rem;
@@ -22,6 +27,7 @@ body {
 
 .recent-header {
   display: flex;
+  align-items: baseline;
 }
 
 .recent-header h2 {
@@ -29,13 +35,14 @@ body {
 }
 
 .recent-list {
-  flex: 1;
   list-style-type: none;
-  margin: 0;
+  box-shadow: 2px 2px 8px 0 white;
   padding: 0;
+  border: solid 1px #bae8e8;
 }
 
 .add {
+  margin-top: 10%;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -47,11 +54,21 @@ body {
   gap: 1rem;
 }
 
+.add form input {
+  color: #272343;
+}
+
+
 .add form button {
   align-self: flex-end;
 }
 
 .recent-list li {
-  border: solid 1px;
-  padding: 0.2rem;
+  padding: 0.3rem;
+  background-color: #fff;
+  color: #272343;
+}
+
+.recent-list li:nth-child(even){
+  background-color: #e3f6f5;
 }
