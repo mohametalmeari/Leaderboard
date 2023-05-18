@@ -1,14 +1,14 @@
-var btnColor = `#03e9f4`
-var hoverColor = `#fff`
-var btnClass = `button`;
-var btnElem = document.querySelectorAll(btnClass);
-for(let i=0; i<btnElem.length; i += 1){
-    for (let j=0; j<4; j += 1){
-        btnElem[i].appendChild(document.createElement('span'));
-    }
+const btnColor = '#03e9f4';
+const hoverColor = '#fff';
+const btnClass = 'button';
+const btnElem = document.querySelectorAll(btnClass);
+for (let i = 0; i < btnElem.length; i += 1) {
+  for (let j = 0; j < 4; j += 1) {
+    btnElem[i].appendChild(document.createElement('span'));
+  }
 }
-var styleSheet = document.createElement('style');
-styleSheet.innerHTML=`
+const styleSheet = document.createElement('style');
+styleSheet.innerHTML = `
 ${btnClass}{
     background: transparent;
     border: none;
