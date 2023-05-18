@@ -17,7 +17,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -64,11 +63,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming soon...
 
  
 
@@ -170,7 +164,7 @@ We invite you to share this project with others and provide a favorable review i
   
 - **How to build Leaderboard?**
 
-  - Follow the steps in this link https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/sneak_peek.md
+  - Follow the steps in this link https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/sneak_peek.md
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
