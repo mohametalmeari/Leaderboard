@@ -68,9 +68,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Open the link bellow:
+> Coming soon...
 
- - [Live Demo Link](https://mohametalmeari.github.io/Leaderboard/dist/)
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
