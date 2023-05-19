@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -36,7 +37,7 @@
 
 # 📖 Leaderboard <a name="about-project"></a>
 
-**Leaderboard** displays scores submitted by different players. It also allows you to submit your score. 
+**Leaderboard** displays scores submitted by different players. It also allows you to submit your score.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,8 +64,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
- 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Open the link bellow:
+
+ - [Live Demo Link](https://mohametalmeari.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +78,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A new developer can use this project as a guide to creating a list of scores.
+> A new developer can use this project as a guide to creating a list of tasks.
 
 To get a local copy up and running, follow these steps.
 
