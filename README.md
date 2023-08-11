@@ -43,8 +43,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Our tech stack consisting of HTML, CSS and JavaScript for the front-end.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -57,8 +55,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Key Features of Leaderboard Website
-
 - **Add New Score**
 - **Display Recent Scores**
 
@@ -68,8 +64,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Open the link bellow:
-
  - [Live Demo Link](https://mohametalmeari.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,18 +72,14 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A new developer can use this project as a guide to creating a list of tasks.
-
 To get a local copy up and running, follow these steps.
-
 
 ### Prerequisites
 
 In order to run this project you need:
 
 ```sh
-  npm run build
-  npm start
+  npm install
 ```
 
 ### Setup
@@ -100,12 +90,33 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/mohametalmeari/Leaderboard.git
 ```
+### Install
+
+Install this project with:
+
+```sh
+  cd my-project
+  npm run build
+```
 
 ### Usage
 
-How to open your project in the browser? 
-Double click on HTML file and the HTML file will be open in your browser.
+To run the project, execute the following command:
 
+```sh
+  npm start
+```
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npx jest
+```
+
+### Deployment
+
+You can deploy this project using GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,13 +124,11 @@ Double click on HTML file and the HTML file will be open in your browser.
 
 ## 👥 Authors <a name="authors"></a>
 
-> This project was done by Mohamad.
-
 👤 **Mohamad**
 
-- GitHub: [@githubhandle](https://github.com/mohametalmeari)
-- Twitter: [@twitterhandle](https://twitter.com/MohametAlmeari)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamet-almeari)
+- GitHub: [@mohametalmeari](https://github.com/mohametalmeari)
+- Twitter: [@MohametAlmeari](https://twitter.com/MohametAlmeari)
+- LinkedIn: [mohamet-almeari](https://www.linkedin.com/in/mohamet-almeari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,17 +158,15 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Share and Review!
-
 We invite you to share this project with others and provide a favorable review if you find it to be useful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDnpmENTS -->
+<!-- ACKNOWLEDGMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowlednpments"></a>
+## 🙏 Acknowledgments <a name="acknowledgments"></a>
 
-> The original design idea for this web page was created by Microverse Team.
+> The original design idea of this webpage was created by Microverse Team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
