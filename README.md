@@ -29,7 +29,7 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowlednpments](#acknowlednpments)
+- [🙏 Acknowledgments](#acknowlednpments)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
